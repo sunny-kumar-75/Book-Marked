@@ -1,0 +1,16 @@
+# Compiled Executables
+*.exe
+*.o
+*.out
+*.app
+
+# IDE & Editor folders
+.vscode/
+.vs/
+*.suo
+*.user
+
+# Build directories
+bin/
+obj/
+build/
